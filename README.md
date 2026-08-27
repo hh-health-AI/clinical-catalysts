@@ -4,6 +4,8 @@ Science, trials, and FDA evidence engine for buy-side healthcare equity research
 
 Answers: **does the science work, will FDA/EMA allow it, when is the binary event, and who else is coming** — delivered as evidence briefs the `healthcare-equity` plugin assembles into an investable view.
 
+Built to institutional investor standards: rigorous and auditable. 
+
 ## Components
 
 | Type | Name | Purpose |
