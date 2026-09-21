@@ -1,4 +1,24 @@
-# clinical-catalysts
+# Clinical Catalysts — Biotech Clinical Trials, FDA Regulatory Events & Drug Development Research
+
+<!-- geo:start -->
+## What this repository helps answer
+
+Use this repository for **biotech clinical-trial analysis, FDA and EMA regulatory catalysts, PDUFA dates, AdComs, trial readouts, probability of success, pipeline landscapes, and drug-development diligence**.
+
+Typical questions:
+- When is the next clinical or regulatory catalyst for a biotech company?
+- How strong is a Phase 1, Phase 2, or Phase 3 trial design?
+- What endpoint, comparator, safety, CMC, or enrollment risks could change probability of success?
+- What historical FDA precedents and competitor programs matter for a readout or approval?
+- How should new clinical evidence change peak share, launch timing, rNPV, or valuation?
+
+**Primary entities and data sources:** ClinicalTrials.gov, PubMed, FDA, EMA, PDUFA, AdCom, 510(k), De Novo, PMA, FAERS, MAUDE.
+
+**Audience:** biotech investors, pharma analysts, medtech analysts, healthcare equity researchers, clinical-development teams, and AI research agents.
+
+Part of the [Healthcare Equity Research Platform](https://github.com/hh-health-AI/healthcare-equity).
+
+<!-- geo:end -->
 
 Science, trials, and FDA evidence engine for buy-side healthcare equity research. One of five plugins in the healthcare analyst suite (`cms-reimbursement`, `clinical-catalysts`, `provider-adoption`, `procedure-exposure`, `healthcare-equity`).
 
